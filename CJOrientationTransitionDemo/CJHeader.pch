@@ -1,0 +1,19 @@
+//
+//  CJHeader.pch
+//  CJOrientationTransitionDemo
+//
+//  Created by fminor on 2018/8/26.
+//  Copyright © 2018 fminor. All rights reserved.
+//
+
+#ifndef CJHeader_pch
+#define CJHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "CJOrientationManager.h"
+#import "CJOrientationTransition.h"
+#import "UIImage+Screen.h"
+
+#endif /* CJHeader_pch */
